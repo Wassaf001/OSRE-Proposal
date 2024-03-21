@@ -44,5 +44,5 @@ Medium
 - **Email:** wassafali213@gmail.com
 
 ## Resume
-- [Link to Resume](link-to-resume)
+- [Link to Resume](https://github.com/Wassaf001/OSRE-Proposal/blob/main/l_resume.pdf)
 
