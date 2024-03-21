@@ -29,9 +29,6 @@ The project aims to address the challenge of managing the increasing data rates 
 ### Difficulty Level
 Medium
 
-### Mentor Availability
-July-September
-
 ### Links
 - [ATLAS Experiment](https://home.cern/science/experiments/atlas)
 - [Project Proposal](link-to-proposal)
